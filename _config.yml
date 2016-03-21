@@ -1,0 +1,28 @@
+name: The Blackville Talon
+favicon: null
+layout_spectrum: 0.37098414334468544
+typography_spectrum: 0.8154799968469888
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.12467904621735215
+  lightness: 0.9218020588159561
+  saturation: 0.06496606743894517
+  rhythmicContrast: 0.42227572621777654
+purpose: []
